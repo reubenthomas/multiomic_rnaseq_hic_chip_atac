@@ -1,0 +1,2 @@
+inputDir=/wynton/group/gladstone/biocore/projects/ppg-srivastava-bruneau-black-oct-2019/bruneau/swetansu-hota-brm-hic-dec-2019/CoolerFiles
+outputDir=/wynton/group/gladstone/biocore/projects/ppg-srivastava-bruneau-black-oct-2019/bruneau
